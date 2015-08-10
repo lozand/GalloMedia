@@ -1,0 +1,68 @@
+﻿#geometric-nav-links li {
+  float: left;
+}
+
+.project-info-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+#geometric-nav.template-column-2 #geometric-nav-links {
+  float: right;
+}
+
+#bottom-thumbnails-container {
+  /* don't overflow: hidden this. it will obscure outer borders on their project covers */
+  clear: left;
+}
+
+#back-to-top-container {
+  clear: left;
+}
+
+.project-hovercover-published-date-divider {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.project-published,
+.project-fields {
+  float: left;
+  width: 100%;
+}
+
+.project-divider-container {
+  position: relative;
+  /*overflow: hidden;*/
+}
+
+/*.project-image {
+  overflow: hidden;
+}*/
+#geometric-project-description,
+#geometric-project-list {
+  overflow: hidden;
+}
+
+#geometric-blog-container {
+  float: none !important;
+  width: 100%;
+}
+
+#header-container {
+  /* to prevent collapsing margins */
+  float: left;
+  width: 100%;
+  clear: both;
+}
+
+#projects-container {
+  /* to prevent collapsing when header is visible and certain loading effects are enabled */
+  clear: both;
+}
+
+#geometric-project-description,
+#geometric-project-list {
+  min-height: 1px;
+}

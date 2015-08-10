@@ -1,0 +1,5 @@
+/home/daniel/Documents/Projects/GalloMedia/GalloMedia/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/daniel/Documents/Projects/GalloMedia/GalloMedia/bin/GalloMedia.dll.mdb
+/home/daniel/Documents/Projects/GalloMedia/GalloMedia/bin/GalloMedia.dll
+/home/daniel/Documents/Projects/GalloMedia/GalloMedia/obj/Debug/GalloMedia.dll
+/home/daniel/Documents/Projects/GalloMedia/GalloMedia/obj/Debug/GalloMedia.dll.mdb
