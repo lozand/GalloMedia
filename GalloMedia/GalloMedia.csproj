@@ -44,6 +44,9 @@
     <Content Include="css\bold.css" />
     <Content Include="css\everything-else.css" />
     <Content Include="css\geometric.css" />
+    <Content Include="Index.html" />
+    <Content Include="Pages\portraits-of-em.html" />
+    <Content Include="Images\emily-cover.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -67,5 +70,7 @@
   <ItemGroup>
     <Folder Include="js\" />
     <Folder Include="css\" />
+    <Folder Include="Pages\" />
+    <Folder Include="Images\" />
   </ItemGroup>
 </Project>
