@@ -3,7 +3,6 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <ProjectGuid>{5CC1A20E-8BD0-47F3-B162-FD7DC0AEF561}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>GalloMedia</RootNamespace>
@@ -53,17 +52,25 @@
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ProjectExtensions>
-    <MonoDevelop>
-      <Properties>
-        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
-      </Properties>
-    </MonoDevelop>
-  </ProjectExtensions>
   <ItemGroup>
     <Folder Include="js\" />
     <Folder Include="css\" />
     <Folder Include="Pages\" />
     <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\bc-cover.jpg" />
+    <None Include="Images\car-cover.jpg" />
+    <None Include="Images\grandparents-cover.jpg" />
+    <None Include="Images\guitar-cover.jpg" />
+    <None Include="Images\ke-wedding.jpg" />
+    <None Include="Images\koopa-cover.jpg" />
+    <None Include="Images\lakeday-cover.jpg" />
+    <None Include="Images\lakeday-stills-cover.jpg" />
+    <None Include="Images\looks2kill-cover.jpg" />
+    <None Include="Images\looks2kill-stills-cover.jpg" />
+    <None Include="Images\random-cover.jpg" />
+    <None Include="Images\ra-wedding.jpg" />
+    <None Include="Images\rockin-motorcycles-cover.jpg" />
   </ItemGroup>
 </Project>
