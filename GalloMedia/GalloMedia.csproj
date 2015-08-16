@@ -72,5 +72,9 @@
     <None Include="Images\random-cover.jpg" />
     <None Include="Images\ra-wedding.jpg" />
     <None Include="Images\rockin-motorcycles-cover.jpg" />
+    <None Include="Images\site-logo.jpg" />
+    <None Include="Pages\kaylon-elles-wedding.html" />
+    <None Include="Pages\randy-aspers-wedding.html" />
+    <None Include="Pages\portraits-of-bc.html" />
   </ItemGroup>
 </Project>
